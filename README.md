@@ -1,0 +1,1 @@
+priper parcial de introducion a la progamacion 
